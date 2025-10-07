@@ -5,11 +5,6 @@
 
 
 
-#8
-Names= ["Youssef" , "Samar " , "Mona"]
-
-print("Youssef" in Names)
-print("Ramadan" not in Names)
 
  
 E=[10,12]
