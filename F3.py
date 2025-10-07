@@ -1,8 +1,6 @@
 print("Helooooooooooooooooooooooo")
 nnnnnnnnnnnn
 
-
-
 #2
 Number= int(input("Please enter a number "))
 if Number > 10 and Number < 100:
