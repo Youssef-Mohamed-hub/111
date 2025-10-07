@@ -1,11 +1,4 @@
 
-try: 
-    number = int(input("Enter a number: ")) 
-    print(10 / number) 
-except ZeroDivisionError: 
-    print("Can't divide by zero.") 
-except ValueError: 
-    print("Please enter a valid number.")
 
 
 
